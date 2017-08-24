@@ -4,7 +4,7 @@
 [![N|Solid](https://d0.awsstatic.com/china/hp/partners/tableau-LOGO-new02.png)](https://nodesource.com/products/nsolid)
 
 
-# 1. Budget VS GROSS (1997-2013)
+
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/1.png "Budget Vs Gross")
 
@@ -12,7 +12,7 @@
   - We are able to see that after 2005 movie industry have increased the trajectory curve of making good profit over the movies.
   - It acts as a suitable indicator that movie industry is growing faster and making better movies.
 
-# 2. Top 10 Directors: 
+
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/10_directors.png "Top 10 directors")
 
@@ -22,7 +22,6 @@
 -	Next person who comes to the list is Tim Burton made a box office collection of 2,071,275,480.00 over his movies where his actual budget over his movies costs only 1,247,000,000.00.
 -	From the above story line we are able to view the top 10 directors gross vs budget.
 
-# 3. Content Rating for movies based on Box office hit
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/content_rating.png "Content Rating")
 
@@ -31,7 +30,7 @@
 -	PG-13 comes from UK directed top box office hit films.
 -	From the above circle, we are able to say that USA stands a pioneer in the movie business and they stand tall and firm with different variety of movies, towards attracting the world audience than any other countries in the world.
 
-# 4. People Interest over years
+
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/interest_over_years.png "People Interest over years")
 
@@ -40,7 +39,7 @@
 -	We can see that Crime/Drama have made a great deal during 1995.
 -	Then comes the one we love Action/Adventure/Sci-Fi ruled the movie industry starting from 2005 and till now.
 
-# 5. Movies across years their Facebook likes vs their rating
+
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/Facebook_likes.png "FB LIKES VS IMDB RATING")
 
@@ -49,7 +48,7 @@
 -	After the evolution of Facebook in 2005, people used to rank the movies in the FB by liking the movies.
 -	The Facebook rating of movies have increased over years and people are interested in liking the movies that are impressive.  This liking system acts as a medium to say that whether a movie is better or good or average or flop.
 
-# 6. Top 10 Directors Budget Vs Gross and their
+
 
 ![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/top_10_directors.png "Top 10 directors movies")
 
