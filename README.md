@@ -6,7 +6,7 @@
 
 # 1. Budget VS GROSS (1997-2013)
 
-![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/budget_vs_gross.png "Budget Vs Gross")
+![Alt text](https://github.com/dineshsonachalam/IMDB_5000_Movies_Statistics_Report-/blob/master/1.png "Budget Vs Gross")
 
   - Here we have plotted graph between Budget Vs Gross across different timeline ranging from 1997 to 2013.
   - We are able to see that after 2005 movie industry have increased the trajectory curve of making good profit over the movies.
