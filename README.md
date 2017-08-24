@@ -58,3 +58,8 @@
 -	Next person to the list is James Cameron known for the outstanding film ‘Avatar’, ’Titanic’, ’Terminator Series’. He stands one among the top 10 directors.
 -	Peter Jackson movies include ‘Lord of the ring’, ’Hobbit series’ have made huge massive hit in Hollywood.
 -	We have mentioned the following directors as the top directors based upon their Box office collection vs budget for the movies they directed.
+
+License
+----
+
+MIT
